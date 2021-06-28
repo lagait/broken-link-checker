@@ -15,6 +15,10 @@ Other features:
 * URL keyword filtering with simple wildcards.
 * Pause/Resume at any time.
 
+####################################################
+## Example ## https://github.com/lagait ############
+blc -rof --filter-level 3 https://google.com
+####################################################
 
 ## Installation
 
